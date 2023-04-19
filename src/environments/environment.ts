@@ -5,13 +5,13 @@
 export const environment = {
   production: false,
 
-  authority:"https://sso.harmony2.cm",
-  redirect_uri:"https://harmony2.cm",
-  post_logout_redirect_uri:"https://harmony2.cm",
+  authority:"https://sso.xxxxx.cm",
+  redirect_uri:"https://xxxxx.cm",
+  post_logout_redirect_uri:"https://xxxxx.cm",
   response_type:"code",
   client_secret:"secret",
-  client_id:"harmony-landing-donald-local",
-  scopes:"openid profile harmony",
+  client_id:"xxxx-landing-donald-xxxx",
+  scopes:"openid profile xxxxx",
 
 };
 
