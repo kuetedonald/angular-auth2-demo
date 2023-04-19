@@ -3,7 +3,16 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false
+  production: false,
+
+  authority:"https://sso.harmony2.cm",
+  redirect_uri:"https://harmony2.cm",
+  post_logout_redirect_uri:"https://harmony2.cm",
+  response_type:"code",
+  client_secret:"secret",
+  client_id:"harmony-landing-donald-local",
+  scopes:"openid profile harmony",
+
 };
 
 /*
